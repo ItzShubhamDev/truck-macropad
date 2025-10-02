@@ -1,6 +1,6 @@
-# M12R
+# Truck Macropad
 
-A 12 keys Macropad, featuring a XIAO RP2040, 0.91inch OLED display and uses KMK firmware.
+A Truck disguised as a 12 keys Macropad, featuring a XIAO RP2040, 0.91inch OLED display and uses KMK firmware.
 
 ![](./images/6.png)
 
@@ -9,7 +9,7 @@ A 12 keys Macropad, featuring a XIAO RP2040, 0.91inch OLED display and uses KMK 
 -   12 MX Style Switches
 -   4 LEDs
 -   0.91 inch Display
--   Unique Case
+-   Unique Case Design
 
 ## Schematic
 
